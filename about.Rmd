@@ -1,7 +1,42 @@
 ---
 title: "BIO"
 ---
+```{r, out.width = "100%", echo = FALSE, fig.align='center'}
+knitr::include_graphics("media/me.jpg")
+```
 
-I am biogeographer and ecological modeler currently doing a PhD in Ecology and Global Change, I have a Master in Ecology and Evolution, a Degree in Ecology, and quite a bit of experience in applying state-of-the-art quantitative methods to better understand the processes shaping the distribution of biodiversity across space and time.
+ 
+I am global change ecologist and  biogeographer, currently doing a PhD in Ecology and Global Change, 
+at the [University of Bergen](https://www.uib.no/en/bio).\
+I have quite a bit of experience in applying state-of-the-art quantitative methods to better understand the processes shaping the distribution of biodiversity across space and time.
+Most of my work has dealt with the Neo-tropics, but I also have experience in Alpine and Mediterranean ecosystems. \
 
-My research activity is structured around four main lines, namely biogeography, Geographical Information Systems, range shift, and biodiversity conservation.
+I also supervise students and organize scientific events. 
+I am passionate about communicating science to a broader audience and talks about wilds life conservation.
+
+
+My research activity is structured around five main lines:\
+
+  * Biogeography
+  * Spatial modeling (GIS)
+  * Range shift
+  * Landscape ecology
+  * Biodiversity conservation.
+  
+## Education
+
+My educational background is in ecology with an emphasis on landscape ecology. I obtained a BSc in Ecology from [Pontifical Xavierian University](https://www.javeriana.edu.co/inicio), a Msc in Ecology and Evolution from [University of Amsterdam](https://www.uva.nl/en).
+
+## My Interests
+  
+  * Biogeography
+  * Quantitative ecology
+  * Modeling and simulation
+  * R language
+  * GIS
+  * Photography
+  * Digital illustration
+
+## CV
+
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>	(Updated October, 2020)

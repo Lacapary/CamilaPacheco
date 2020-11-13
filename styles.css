@@ -3,3 +3,5 @@ html,body        {height:100%;}
     background-color: darkslategray;
     border-color: #c3c3c3;
 }
+html, a {color: #820257}
+      a:hover, a:focus{color:#C71074;text-decoration:underline}
