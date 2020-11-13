@@ -2,6 +2,8 @@
 title: "Research"
 ---
 
+Here are some of my active and former research activities
+
 ### Lags in the responses of species assemblages to climate  change
 
 <span style="color:#820257"> *Supervised by: [John Arvid Grytnes](https://www.researchgate.net/profile/John_Arvid_Grytnes),* *[Suzette Flantua](https://www.researchgate.net/profile/Suzette_Flantua)* and *[Fride Høistad Schei](https://www.researchgate.net/profile/Fride_Schei)* </span> \
@@ -21,7 +23,3 @@ Soon
 </details>
 
 
-<details>
-<summary>Posters</summary>
-Soon
-</details>

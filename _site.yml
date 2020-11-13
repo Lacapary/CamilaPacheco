@@ -15,6 +15,9 @@ navbar:
       - text: "---------"
       - text: Publications
         href: publications.html
+      - text: "---------"
+      - text: Teaching & Outreach
+        href: teaching_outreach.html
     - text: "Blog"
       icon: fa-rss
       href: https://lacapary.github.io/blog/ 
