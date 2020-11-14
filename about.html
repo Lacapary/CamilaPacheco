@@ -26,6 +26,7 @@
 <script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link rel="shortcut icon" href="media/squirrel.svg"/>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -292,12 +293,27 @@ $(document).ready(function () {
      About
   </a>
 </li>
-<li>
-  <a href="research.html">
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-pagelines"></span>
      
     Research
+     
+    <span class="caret"></span>
   </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="research.html">Overview</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="publications.html">Publications</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="teaching_outreach.html">Teaching &amp; Outreach</a>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="https://lacapary.github.io/blog/">
@@ -345,9 +361,9 @@ $(document).ready(function () {
 
 <p><img src="media/me.jpg" width="100%" style="display: block; margin: auto;" /></p>
 <p>I am global change ecologist and biogeographer, currently doing a PhD in Ecology and Global Change, in the <a href="https://www.uib.no/en/rg/EECRG">EECRG</a> group at the <a href="https://www.uib.no/en/bio">University of Bergen</a>.<br />
-I have quite a bit of experience in applying state-of-the-art quantitative methods to better understand the processes shaping the distribution of biodiversity across space and time. Most of my work has dealt with the Neo-tropics, but I also have experience in Alpine and Mediterranean ecosystems.<br />
+As a computational scientist, I apply analytical and mechanistic modeling approaches to to better understand the processes shaping the distribution of biodiversity across space and time. Most of my work has dealt with the Neo-tropics, but I also have experience in Alpine and Mediterranean ecosystems.<br />
 </p>
-<p>I also supervise students and organize scientific events. I am passionate about communicating science to a broader audience and talks about wilds life conservation.</p>
+<p>I also supervise students and organize scientific events. I am passionate about data visualization and communicating science to a broader audience and talks about wilds life conservation.</p>
 <p>My research activity is structured around five main lines:<br />
 </p>
 <ul>
@@ -355,11 +371,11 @@ I have quite a bit of experience in applying state-of-the-art quantitative metho
 <li>Spatial modeling (GIS)</li>
 <li>Range shift</li>
 <li>Landscape ecology</li>
-<li>Biodiversity conservation.</li>
+<li>Biodiversity conservatioN</li>
 </ul>
 <div id="education" class="section level2">
 <h2>Education</h2>
-<p>My educational background is in ecology with an emphasis on community ecology and Spatial modeling. I obtained a BSc in Ecology from <a href="https://www.javeriana.edu.co/inicio">Pontifical Xavierian University</a>, a Master’s degree in Ecology and Evolution from <a href="https://www.uva.nl/en">University of Amsterdam</a>.</p>
+<p>My educational background is in ecology with an emphasis on community ecology and spatial modeling. I obtained a bachelor’s degree in Ecology from <a href="https://www.javeriana.edu.co/inicio">Pontifical Xavierian University</a>, a Master’s degree in Ecology and Evolution from <a href="https://www.uva.nl/en">University of Amsterdam</a>.</p>
 </div>
 <div id="my-interests" class="section level2">
 <h2>My Interests</h2>
@@ -368,6 +384,7 @@ I have quite a bit of experience in applying state-of-the-art quantitative metho
 <li>Quantitative ecology</li>
 <li>Modeling and simulation</li>
 <li>R language</li>
+<li>Data visualization</li>
 <li>GIS</li>
 <li>Photography</li>
 <li>Digital illustration</li>
@@ -381,7 +398,8 @@ I have quite a bit of experience in applying state-of-the-art quantitative metho
 
 
 <p  style="text-align: center;"><span style="color:#C4C2C4">
-Copyright © 2020 L. Camila Pacheco-Riaño,  All rights reserved.
+A <a href="https://github.com/privefl/rmarkdown-website-template">Florian Privé template</a> build with R
+© L. Camila Pacheco-Riaño 2020.  All rights reserved.
 </span>
 </p>
 

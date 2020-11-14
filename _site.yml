@@ -1,4 +1,4 @@
-name: "L. Camila Pacheco Riaño" 
+name: "L. Camila Pacheco Riaño " 
 output_dir: "."
 navbar:
   title: "L. Camila Pacheco Riaño"                               
@@ -37,5 +37,6 @@ output:
     theme: cosmo
     highlight: textmate
     include:
+      in_header: header.html
       after_body: footer.html
     

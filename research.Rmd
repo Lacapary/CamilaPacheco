@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Here are some of my active and former research activities
+Here are some of my current activities and former research activities
 
 ### Lags in the responses of species assemblages to climate  change
 
@@ -21,5 +21,9 @@ knitr::include_graphics("media/research_1.jpg")
 <summary>Database</summary>
 Soon
 </details>
+
+
+
+
 
 

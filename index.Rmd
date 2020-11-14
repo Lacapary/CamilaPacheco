@@ -1,5 +1,5 @@
 ---
-title: "L. Camila Pacheco Riaño"
+title: "L. Camila Pacheco Riaño" 
 ---
 ```{r, out.width = "100%", echo = FALSE, fig.align='center'}
 knitr::include_graphics("media/cover.jpg")

@@ -7,11 +7,11 @@ knitr::include_graphics("media/me.jpg")
 
  
 I am global change ecologist and  biogeographer, currently doing a PhD in Ecology and Global Change, in the [EECRG](https://www.uib.no/en/rg/EECRG) group at the [University of Bergen](https://www.uib.no/en/bio).\
-I have quite a bit of experience in applying state-of-the-art quantitative methods to better understand the processes shaping the distribution of biodiversity across space and time.
+As a computational scientist, I apply analytical and mechanistic modeling approaches to to better understand the processes shaping the distribution of biodiversity across space and time.
 Most of my work has dealt with the Neo-tropics, but I also have experience in Alpine and Mediterranean ecosystems. \
 
 I also supervise students and organize scientific events. 
-I am passionate about communicating science to a broader audience and talks about wilds life conservation.
+I am passionate about data visualization and communicating science to a broader audience and talks about wilds life conservation.
 
 
 My research activity is structured around five main lines:\
@@ -20,11 +20,11 @@ My research activity is structured around five main lines:\
   * Spatial modeling (GIS)
   * Range shift
   * Landscape ecology
-  * Biodiversity conservation.
+  * Biodiversity conservatioN
   
 ## Education
 
-My educational background is in ecology with an emphasis on community ecology and Spatial modeling. I obtained a BSc in Ecology from [Pontifical Xavierian University](https://www.javeriana.edu.co/inicio), a Master’s degree in Ecology and Evolution from [University of Amsterdam](https://www.uva.nl/en).
+My educational background is in ecology with an emphasis on community ecology and spatial modeling. I obtained a bachelor's degree in Ecology from [Pontifical Xavierian University](https://www.javeriana.edu.co/inicio), a Master’s degree in Ecology and Evolution from [University of Amsterdam](https://www.uva.nl/en).
 
 ## My Interests
   
@@ -32,6 +32,7 @@ My educational background is in ecology with an emphasis on community ecology an
   * Quantitative ecology
   * Modeling and simulation
   * R language
+  * Data visualization
   * GIS
   * Photography
   * Digital illustration

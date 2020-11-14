@@ -1,11 +1,18 @@
 ---
 title: "Teaching & Outreach"
 ---
+### Data Visualization
+**Contributions to #TidyTuesday**
 
-## Workshops
+* #TidyTuesday is a weekly data project aimed at the R ecosystem and the `{tidyverse}` package bundle to wrangle, explore and visualize the data set that is provided by the [R4DS Online Learning Community](https://www.rfordatasci.com/).
 
-## Talks
+  →  [All my contributions](https://github.com/Lacapary/T_Tuesday)
 
-## Teaching Assistant
 
-## External positions:
+### Workshops
+
+### Talks
+
+### Teaching Assistant
+
+### External positions
