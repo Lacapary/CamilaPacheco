@@ -1,7 +1,8 @@
 name: "L. Camila Pacheco Riaño " 
 output_dir: "."
 navbar:
-  title: "L. Camila Pacheco Riaño"                               
+
+  title: '<div><img class="avatar" src="media/squirrel.svg "></img> L. Camila Pacheco-Riaño</div>'
   type: inverse
   left:
     - text: " About"
@@ -16,7 +17,7 @@ navbar:
       - text: Publications
         href: publications.html
       - text: "---------"
-      - text: Teaching & Outreach
+      - text: Outreach
         href: teaching_outreach.html
     - text: "Blog"
       icon: fa-rss
@@ -37,6 +38,7 @@ output:
     theme: cosmo
     highlight: textmate
     include:
+      #before_header: cover.html
       in_header: header.html
       after_body: footer.html
     

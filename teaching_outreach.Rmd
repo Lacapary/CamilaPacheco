@@ -1,5 +1,5 @@
 ---
-title: "Teaching & Outreach"
+title: "Outreach"
 ---
 ### Data Visualization
 **Contributions to #TidyTuesday**

@@ -1,5 +1,5 @@
 ---
-title: "BIO"
+title: "About me"
 ---
 ```{r, out.width = "100%", echo = FALSE, fig.align='center'}
 knitr::include_graphics("media/me.jpg")
